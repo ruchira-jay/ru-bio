@@ -17,7 +17,6 @@ I'm a passionate Full Stack and Mobile Engineer based in Sri Lanka, building cle
 
 - 🔭 Currently building cross-platform mobile apps with **Flutter**
 - 🌱 Always exploring the latest in **React**, **Node.js**, and **cloud architecture**
-- 💬 Ask me about **React**, **Node.js**, **Flutter**, or **React Native**
 - 📫 Reach me at **ruchira.tamohara@gmail.com**
 - ⚡ Fun fact: I love turning complex problems into elegant, minimal solutions
 
