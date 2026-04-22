@@ -1,7 +1,6 @@
 <div align="center">
 # Hi there, I'm Ruchira Jayasinghe 👋
  
-### Full Stack Engineer (INTERN) · Sri Lanka
  
 [![GitHub](https://img.shields.io/badge/GitHub-ruchira--jay-181717?style=flat-square&logo=github)](https://github.com/ruchira-jay)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ruchira-jayasinghe)
