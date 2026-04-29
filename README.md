@@ -72,7 +72,6 @@ I'm a passionate Full Stack and Mobile Engineer based in Sri Lanka, building cle
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@ruchira--jay-181717?style=for-the-badge&logo=github)](https://github.com/ruchira-jay)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ruchira_Jayasinghe-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ruchira-jayasinghe)
 [![Email](https://img.shields.io/badge/Email-ruchira.jay@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruchira.jay@email.com)
 
 </div>
