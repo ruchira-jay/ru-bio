@@ -3,8 +3,7 @@
  
  
 [![GitHub](https://img.shields.io/badge/GitHub-ruchira--jay-181717?style=flat-square&logo=github)](https://github.com/ruchira-jay)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ruchira-jayasinghe)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-22c55e?style=flat-square&logo=vercel)](https://ruchira-jay.dev)
+
  
 </div>
 
